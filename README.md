@@ -95,6 +95,17 @@ Tugas SVM dapat dilihat [disini](https://github.com/marlinaa31/Tugas-2-Machine-L
 1. SVM model dengan polynomial derajat 3 memperoleh nilai mse MSE: 0.4037759076223635
 2. ANN model dengan 3 layer  (satu input layer, hidden layer, dan output layer) menggunakan loss mse mendapat nilai 0.4005
 
+## Kesimpulan
+Dari hasil yang diberikan, kita dapat membuat kesimpulan sebagai berikut:
+
+### Klasifikasi:
+Dari perbandingan di atas, terlihat bahwa model ANN dengan 4 layer memiliki akurasi yang paling tinggi, yaitu 95%. Sedangkan, SVM dengan kernel Linear memiliki akurasi tertinggi kedua dengan 94%, diikuti oleh SVM dengan kernel RBF dengan akurasi 91%.
+
+### Regresi:
+Dari hasil tersebut, model ANN dengan 3 layer memberikan nilai MSE yang sedikit lebih rendah (0.4005) dibandingkan dengan SVM dengan polynomial derajat 3 (0.4037759076223635).
+
+Dalam kedua kasus klasifikasi dan regresi, terlihat bahwa model ANN memiliki kinerja yang kompetitif atau bahkan lebih baik dibandingkan dengan SVM. Namun, untuk membuat kesimpulan yang lebih kuat, perlu dilakukan analisis yang lebih mendalam, termasuk uji statistik dan validasi model yang lebih komprehensif.
+
 
 
 
