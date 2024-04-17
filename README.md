@@ -104,7 +104,7 @@ Dari perbandingan di atas, terlihat bahwa model ANN dengan 4 layer memiliki akur
 ### Regresi:
 Dari hasil tersebut, model ANN dengan 3 layer memberikan nilai MSE yang sedikit lebih rendah (0.4005) dibandingkan dengan SVM dengan polynomial derajat 3 (0.4037759076223635).
 
-Dalam kedua kasus klasifikasi dan regresi, terlihat bahwa model ANN memiliki kinerja yang kompetitif atau bahkan lebih baik dibandingkan dengan SVM. Namun, untuk membuat kesimpulan yang lebih kuat, perlu dilakukan analisis yang lebih mendalam, termasuk uji statistik dan validasi model yang lebih komprehensif.
+Dalam kedua kasus klasifikasi dan regresi, terlihat bahwa model ANN memiliki kinerja yang kompetitif atau bahkan lebih baik dibandingkan dengan SVM. Hal ini mungkin disebabkan oleh kemampuan ANN dalam memahami pola-pola yang kompleks dan non-linear dalam data, yang mungkin tidak dapat ditangkap dengan baik oleh SVM.
 
 
 
